@@ -1,0 +1,7 @@
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\RESTful_S7.pdb
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\D3DCompiler_47_cor3.dll
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\PenImc_cor3.dll
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\PresentationNative_cor3.dll
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\vcruntime140_cor3.dll
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\wpfgfx_cor3.dll
+D:\Play\VS\RESTful_S7\bin\Release\net6.0-windows\publish\win-x64\RESTful_S7.exe
